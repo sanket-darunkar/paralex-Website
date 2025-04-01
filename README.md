@@ -52,6 +52,7 @@ cd parallax-effect
 3.Customize text, fonts, and colors as needed.
 
 🌍 Live Demo
+https://sanket-darunkar.github.io/paralex-Website/
 
 🏷️ License
 
