@@ -1,9 +1,7 @@
 # paralex-Website
 Parallax Effect 🌟
 
- 
-
-📌 Overview
+📌 Project Overview
 
 This project implements a smooth Parallax Scrolling Effect using HTML, CSS, and JavaScript. The background moves at a slower pace than the foreground, creating a visually engaging experience.
 
